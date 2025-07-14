@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Hyejin Ha!</h1>
+<h1 align="center">Hi👋 I'm Yejin Ha!</h1>
 
 <p align="center">
   <strong>Double Major</strong>: Information & Communication Engineering + Computer Science <br>
